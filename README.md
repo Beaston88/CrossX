@@ -46,9 +46,6 @@ Shortest Weighted Path using Dijkstra: ['A', 'B', 'E', 'K'] with cost 11
 
 A visualization of the graph will be displayed, with the shortest path highlighted in red. 🔴
 
-## 📷 Example Graph Visualization
-![Graph Visualization](https://via.placeholder.com/600x400.png?text=Graph+Visualization)
-
 ## 📁 Project Structure
 ```
 📂 Graph-Algorithms-Visualization
